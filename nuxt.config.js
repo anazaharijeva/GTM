@@ -41,6 +41,6 @@ export default {
   build: {
   },
   googleAnalytics: {
-    id: 'G-6Q7BG7ZE6G'
+    id: 'UA-235992698-1'
   }
 }
